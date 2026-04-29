@@ -1,0 +1,8 @@
+fincept-terminal==1.0.2
+yfinance>=0.2.36
+pandas>=2.0.0
+numpy>=1.24.0
+gnews>=0.3.8
+vaderSentiment>=3.3.2
+requests>=2.31.0
+alpaca-trade-api>=3.0.0
